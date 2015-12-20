@@ -1,1 +1,2 @@
-# sample_app
+# MiniPost
+A microposts sharing website
